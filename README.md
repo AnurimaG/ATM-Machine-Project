@@ -49,7 +49,7 @@ PIN: 1234**
 **Folder Structure**
 
 **ATM-Machine-Project**
-   ├── ATM.java         # Main source code
+   ├── ATM_Interface.java         # Main source code
    ├── README.md        # Project documentation
 
 **Disclaimer:** This project is for educational and portfolio purposes only. No official banking features are implemented.
